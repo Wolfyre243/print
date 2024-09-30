@@ -1,0 +1,28 @@
+{
+  "name": "@useless-thingys/print",
+  "version": "1.0.0",
+  "description": "Tired of typing out console.log() every single time?? Well, we've got you covered!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolfyre243/print.git"
+  },
+  "keywords": [
+    "utility",
+    "troll",
+    "fun",
+    "printing",
+    "command",
+    "line",
+    "useless"
+  ],
+  "author": "Wolfyre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wolfyre243/print/issues"
+  },
+  "homepage": "https://github.com/Wolfyre243/print#readme"
+}
